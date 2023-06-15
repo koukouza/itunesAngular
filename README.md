@@ -31,4 +31,4 @@ Screenshot of the app :
 ![image](https://github.com/koukouza/itunesAngular/assets/49752595/fe6637c5-42a7-437c-a20c-bbfa295e0127)
 
 
-![image](https://github.com/koukouza/itunesAngular/assets/49752595/99ea40cf-7eb0-4fba-8aa5-6124a5591de9)
+![image](https://github.com/koukouza/itunesAngular/assets/49752595/0a4b9ab4-15cc-46be-ac89-d90b8355332f)
